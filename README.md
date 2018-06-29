@@ -6,8 +6,8 @@ This is a tiny command line program written in [ReasonML](https://reasonml.githu
 
 ### Features
 
-[x] list contents, no flags
-[ ] list contents in long form (`-l`)
+- [x] list contents, no flags
+- [ ] list contents in long form (`-l`)
 
 ### Install
 
